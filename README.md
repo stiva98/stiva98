@@ -22,3 +22,7 @@ Ho iniziato il mio percorso di studi in tutt’altro ambito diplondami in “per
   <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+## Progetti di cui vado più fiero
+- [Progetto finale Frontend - html css vuejs sass swiperjs](https://github.com/stiva98/proj-html-vuejs)
+- [Laravel DC Comics - html css laravel](https://github.com/stiva98/laravel-dc-comics)
+- [Laravel con i collegamenti fra tabelle del DB - html css laravel axios](https://github.com/stiva98/laravel-many-to-many)
